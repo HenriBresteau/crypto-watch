@@ -1,0 +1,3 @@
+9fe6bb793d88777ef7d1270f6f4ffed4
+
+https://api.nomics.com/v1/currencies/ticker?key=9fe6bb793d88777ef7d1270f6f4ffed4&ids=BTC,ETH,RVN&interval=1d,30d,365d&convert=EUR
