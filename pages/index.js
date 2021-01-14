@@ -1,5 +1,10 @@
 import Head from "next/head";
+import Layout from "../components/Layout";
 
 export default function Home() {
-  return <div>Hello next</div>;
+  return (
+    <Layout page="Crypto-watch - Accueil">
+      <h1> Accueil </h1>
+    </Layout>
+  );
 }
